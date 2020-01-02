@@ -1,0 +1,23 @@
+# Column Names and Descriptions for King County Data Set
+
+- `id` - unique identifier for each home sold
+- `date` - date of the home sale
+- `price` - prediction target
+- `bedrooms` - number of bedrooms
+- `bathrooms` - number of bathrooms, where .5 accounts for a room with a toilet but no shower
+- `sqft_living` - square footage of the home (interior living space)
+- `sqft_lot` - square footage of the lot (land space)
+- `floors` - total floors (levels) in house
+- `waterfront` - house which has a view to a waterfront
+- `view` -  how good the view of the property is
+- `condition` - how good the condition is
+- `grade` - grade given to the home based on building construction and design
+- `sqft_above` - square footage of the home apart from basement (above ground level)
+- `sqft_basement` - square footage of the basement (below ground level)
+- `yr_built` - year the home was initially built
+- `yr_renovated` - year of the home's latest renovation
+- `zipcode` - zipcode area of the home
+- `lat` - latitude coordinate
+- `long` - longitude coordinate
+- `sqft_living15` - square footage of interior living space for the nearest 15 neighbors
+- `sqft_lot15` - square footage of the lots of the nearest 15 neighbors
