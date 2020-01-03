@@ -1,0 +1,351 @@
+﻿CITY,STATE OR PROVINCE,zipcode,price,bedrooms,bathrooms,sqft_living,yr_built,STATUS,lat,long,URL,SOLD DATE,ADDRESS
+Federal Way,WA,98003,259900,2,1.75,1427,1978,Sold,47.3310589,-122.3342179,http://www.redfin.com/WA/Federal-Way/30242-1st-Ave-S-98003/home/2097686,February-21-2019,30242 1st Ave S
+Issaquah,WA,98027,505000,2,1.75,1379,2010,Sold,47.5598318,-122.0921415,http://www.redfin.com/WA/Issaquah/18609-SE-Newport-Way-98027/unit-305/home/40259100,December-11-2019,18609 SE Newport Way #305
+Redmond,WA,98052,732000,3,1.75,1710,1950,Sold,47.630877,-122.093475,http://www.redfin.com/WA/Redmond/18441-NE-24th-St-98052/home/503816,March-29-2019,18441 NE 24th St
+Federal Way,WA,98023,540000,6,2.75,3087,2014,Sold,47.2963175,-122.3502995,http://www.redfin.com/WA/Federal-Way/1103-SW-339th-St-98023/home/50267963,October-23-2019,1103 SW 339th St
+Seattle,WA,98199,1275000,4,3.5,3190,2006,Sold,47.6480964,-122.3856763,http://www.redfin.com/WA/Seattle/3052-23rd-Ave-W-98199/home/2064490,June-4-2019,3052 23rd Ave W
+Bellevue,WA,98006,450000,3,2,1050,1995,Sold,47.5430145,-122.1271531,http://www.redfin.com/WA/Bellevue/6505-SE-Cougar-Mountain-Way-98006/unit-1/home/36856,May-24-2019,6505 SE Cougar Mountain Way #1
+Seattle,WA,98117,710000,3,1.75,1360,1904,Sold,47.6772224,-122.3834527,http://www.redfin.com/WA/Seattle/6545-21st-Ave-NW-98117/home/164765,March-29-2019,6545 21st Ave NW
+Sammamish,WA,98074,850000,4,2.25,2710,1972,Sold,47.6313886,-122.0621416,http://www.redfin.com/WA/Sammamish/2425-Sahalee-Dr-W-98074/home/263664,March-22-2019,2425 W Sahalee Dr
+Bellevue,WA,98006,758000,4,1.75,2110,1954,Sold,47.5680003,-122.1410606,http://www.redfin.com/WA/Bellevue/15026-SE-44-St-98006/home/237458,May-24-2019,15026 SE 44th St
+Enumclaw,WA,98022,407000,3,2.5,1820,1992,Sold,47.1940259,-122.0097912,http://www.redfin.com/WA/Enumclaw/3110-Link-Ave-98022/home/297877,October-1-2019,3110 Link Ave
+Seattle,WA,98108,677500,3,2.5,1650,2006,Sold,47.564789,-122.2969602,http://www.redfin.com/WA/Seattle/2905-S-Adams-St-98108/home/8187272,May-1-2019,2905 S Adams St
+Bellevue,WA,98008,665000,3,1.75,1250,1964,Sold,47.6338691,-122.1187654,http://www.redfin.com/WA/Bellevue/16544-NE-27th-St-98008/home/431668,April-2-2019,16544 NE 27th St
+Newcastle,WA,98056,870000,4,2.5,2760,2003,Sold,47.5262205,-122.1863752,http://www.redfin.com/WA/Newcastle/11552-SE-85th-St-98056/home/417679,May-21-2019,11552 SE 85th St
+Snoqualmie,WA,98065,610000,4,2.25,1850,1956,Sold,47.5541788,-121.8026364,http://www.redfin.com/WA/Snoqualmie/40312-SE-53rd-St-98065/home/483244,December-5-2019,40312 SE 53rd St
+Auburn,WA,98001,395000,3,2.5,2270,1978,Sold,47.2668018,-122.2905529,http://www.redfin.com/WA/Auburn/37324-33rd-Ave-S-98001/home/362544,February-28-2019,37324 33rd Ave S
+Seattle,WA,98119,375000,1,1,515,1957,Sold,47.6269916,-122.3621317,http://www.redfin.com/WA/Seattle/330-W-Olympic-Pl-98119/unit-403/home/55340,May-2-2019,330 W Olympic Pl #403
+Kirkland,WA,98034,357000,3,2,1218,1980,Sold,47.7327036,-122.2097239,http://www.redfin.com/WA/Kirkland/9926-NE-144th-Ln-98034/unit-306/home/169567374,November-27-2019,9926 NE 144th Ln #306
+Sammamish,WA,98074,790000,3,2.5,1920,1988,Sold,47.6199816,-122.044513,http://www.redfin.com/WA/Sammamish/22128-NE-11th-Pl-98074/home/262417,April-15-2019,22128 NE 11th Pl
+Seattle,WA,98144,649950,2,1.75,1270,2016,Sold,47.5791869,-122.3149876,http://www.redfin.com/WA/Seattle/2709-14th-Ave-S-98144/unit-B/home/109460550,October-7-2019,2709 14th Ave S Unit B
+Seattle,WA,98122,529000,2,2.5,1050,2007,Sold,47.6018201,-122.2987075,http://www.redfin.com/WA/Seattle/100-26th-Ave-98122/unit-B/home/144399080,August-20-2019,100 26th Ave Unit B
+Auburn,WA,98092,395000,5,3.5,2670,1983,Sold,47.3178976,-122.1736813,http://www.redfin.com/WA/Auburn/31717-126th-Ave-SE-98092/home/406402,June-12-2019,31717 126th Ave SE
+Enumclaw,WA,98022,347000,3,1.75,1470,1979,Sold,47.1948205,-122.002619,http://www.redfin.com/WA/Enumclaw/422-Charwila-Ln-98022/home/296172,April-26-2019,422 Charwila Ln
+Woodinville,WA,98072,665000,3,2.25,1380,1979,Sold,47.743049,-122.0893572,http://www.redfin.com/WA/Woodinville/15905-187th-Ave-NE-98072/home/270001,December-11-2019,15905 187th Ave NE
+Fall City,WA,98024,759950,3,2.5,2660,1989,Sold,47.5740703,-121.9487582,http://www.redfin.com/WA/Fall-City/3832-295th-Ave-SE-98024/home/465759,December-19-2019,3832 295th Ave SE
+Lake Tapps,WA,98391,425500,4,1.75,1778,1981,Sold,47.256326,-122.1574099,http://www.redfin.com/WA/Lake-Tapps/110-205th-Ave-E-98391/home/2694198,April-11-2019,110 205th Ave E
+Seattle,WA,98121,1135000,3,2,1564,2000,Sold,47.617218,-122.3536221,http://www.redfin.com/WA/Seattle/2929-1st-Ave-98121/unit-1107/home/16925,October-25-2019,2929 1st Ave #1107
+Seattle,WA,98126,610000,3,1.75,1780,1928,Sold,47.5163604,-122.3799577,http://www.redfin.com/WA/Seattle/9701-37th-Ave-SW-98126/home/155833,May-10-2019,9701 37th Ave SW
+Snoqualmie,WA,98065,519000,2,2.5,1620,2000,Sold,47.5310359,-121.8676016,http://www.redfin.com/WA/Snoqualmie/7814-Fairway-Ave-SE-98065/unit-104/home/19579,April-18-2019,7814 Fairway Ave SE #104
+Carnation,WA,98014,855000,4,2.5,2820,1997,Sold,47.7030086,-121.8928495,http://www.redfin.com/WA/Carnation/33309-NE-118th-Pl-98014/home/442059,July-31-2019,33309 NE 118th Pl
+Snoqualmie,WA,98065,795000,4,2.5,2760,2014,Sold,47.5198094,-121.8831761,http://www.redfin.com/WA/Snoqualmie/34303-SE-Ash-St-98065/home/45465038,December-3-2019,34303 SE Ash St
+Seattle,WA,98103,850000,2,2,1400,1916,Sold,47.6644758,-122.338753,http://www.redfin.com/WA/Seattle/1606-N-49th-St-98103/home/117303,March-26-2019,1606 N 49th St
+Federal Way,WA,98023,448500,4,2,2960,1964,Sold,47.2711077,-122.3371774,http://www.redfin.com/WA/Federal-Way/36822-2nd-Ave-SW-98023/home/361116,April-19-2019,36822 2nd Ave SW
+Seattle,WA,98136,620000,3,2.5,1690,2004,Sold,47.5404387,-122.3869742,http://www.redfin.com/WA/Seattle/7008-California-Ave-SW-98136/unit-A/home/470194,October-24-2019,7008 California Ave SW Unit A
+Seattle,WA,98136,699000,2,2,2050,1923,Sold,47.5340837,-122.3834005,http://www.redfin.com/WA/Seattle/3933-SW-Ida-St-98136/home/468808,October-17-2019,3933 SW Ida St
+Seattle,WA,98116,765000,3,1.75,2090,1926,Sold,47.5578637,-122.3884159,http://www.redfin.com/WA/Seattle/4932-Erskine-Way-SW-98116/home/152581,May-31-2019,4932 Erskine Way SW
+Kirkland,WA,98034,600000,3,1.75,1250,1966,Sold,47.7194623,-122.2275934,http://www.redfin.com/WA/Kirkland/13223-86th-Pl-NE-98034/home/279212,October-3-2019,13223 86th Pl NE
+Seattle,WA,98106,685000,5,2.5,2550,1996,Sold,47.5295835,-122.3419967,http://www.redfin.com/WA/Seattle/8115-5th-Ave-SW-98106/home/474453,September-27-2019,8115 5th Ave SW
+Redmond,WA,98053,458000,3,2.5,1740,2008,Sold,47.6965436,-122.0242637,http://www.redfin.com/WA/Redmond/11068-236th-Pl-NE-98053/home/18659072,April-4-2019,11068 236th Pl NE
+Seattle,WA,98144,547000,2,1.5,1180,2005,Sold,47.5997704,-122.2996398,http://www.redfin.com/WA/Seattle/318-25th-Ave-S-98144/unit-B/home/8187706,September-13-2019,318 25th Ave S Unit B
+Seattle,WA,98144,689000,3,2.5,1400,2007,Sold,47.5825754,-122.3129219,http://www.redfin.com/WA/Seattle/2310-15th-Ave-S-98144/unit-A/home/18659784,February-1-2019,2310 15th Ave S Unit A
+Seattle,WA,98122,350000,1,1,541,1923,Sold,47.6183468,-122.3248349,http://www.redfin.com/WA/Seattle/505-E-Denny-Way-98122/unit-A101/home/14944,July-15-2019,505 E Denny Way Unit A101
+Seattle,WA,98122,780800,2,1,860,1918,Sold,47.6117356,-122.3010783,http://www.redfin.com/WA/Seattle/2404-E-Spring-St-98122/home/147558,May-29-2019,2404 E Spring St
+Maple Valley,WA,98038,465000,4,2.5,1780,2006,Sold,47.3666409,-122.0181834,http://www.redfin.com/WA/Maple-Valley/26143-242nd-Ct-SE-98038/home/8189563,May-14-2019,26143 242nd Ct SE
+Auburn,WA,98001,475000,4,2.75,2220,1988,Sold,47.3351731,-122.259809,http://www.redfin.com/WA/Auburn/5915-S-296th-Pl-98001/home/209528,April-22-2019,5915 S 296th Pl
+Seattle,WA,98117,971000,3,1.75,1620,1908,Sold,47.68030082,-122.3747442,http://www.redfin.com/WA/Seattle/7025-Alonzo-Ave-NW-98117/home/497203,April-12-2019,7025 Alonzo Ave NW
+Bellevue,WA,98006,1014000,4,2.75,2490,1978,Sold,47.5607488,-122.1460795,http://www.redfin.com/WA/Bellevue/14503-SE-47th-Pl-98006/home/236062,October-8-2019,14503 SE 47th Pl
+Auburn,WA,98001,525011,4,3.5,2610,2000,Sold,47.316206,-122.2566685,http://www.redfin.com/WA/Auburn/1018-U-St-NW-98001/home/344924,October-18-2019,1018 U St NW
+Woodinville,WA,98072,450000,3,0.75,960,1967,Sold,47.7693133,-122.1132764,http://www.redfin.com/WA/Woodinville/19515-170th-Ave-NE-98072/home/270799,December-20-2019,19515 170th Ave NE
+North Bend,WA,98045,785000,3,3,2090,1990,Sold,47.467214,-121.7631034,http://www.redfin.com/WA/North-Bend/43224-SE-149th-St-98045/home/486613,August-20-2019,43224 SE 149th St
+Bellevue,WA,98007,435000,3,1.75,1124,1968,Sold,47.5957927,-122.1406843,http://www.redfin.com/WA/Bellevue/1600-149th-Pl-SE-98007/unit-3/home/11468,November-15-2019,1600 149th Pl SE #3
+Issaquah,WA,98027,355000,3,2,1030,1989,Sold,47.5343857,-122.0453606,http://www.redfin.com/WA/Issaquah/455-Newport-Way-NW-98027/unit-302/home/10802,January-30-2019,455 Newport Wy NW #302
+Auburn,WA,98092,609000,4,3.5,3740,2003,Sold,47.2609372,-122.2153018,http://www.redfin.com/WA/Auburn/5318-Highland-Dr-SE-98092/home/217448,March-13-2019,5318 Highland Dr SE
+Seattle,WA,98125,401000,2,1,846,2007,Sold,47.719291,-122.3170499,http://www.redfin.com/WA/Seattle/1017-NE-125th-St-98125/unit-D/home/18659292,November-7-2019,1017 NE 125th St Unit D
+Seattle,WA,98199,1580000,5,2.5,2950,2016,Sold,47.6456269,-122.4026014,http://www.redfin.com/WA/Seattle/2819-35th-Ave-W-98199/home/127047,May-31-2019,2819 35th Ave W
+Seattle,WA,98116,1350000,4,4,3880,2015,Sold,47.5704651,-122.394478,http://www.redfin.com/WA/Seattle/4822-SW-Charlestown-St-98116/home/331618,June-20-2019,4822 SW Charlestown St
+Seattle,WA,98126,685000,4,2.75,1990,2017,Sold,47.5393322,-122.3713818,http://www.redfin.com/WA/Seattle/6972-31st-Ave-SW-98126/home/18661443,October-29-2019,6972 31st Ave SW
+Seattle,WA,98108,660000,4,2.5,2010,2010,Sold,47.5538957,-122.2965702,http://www.redfin.com/WA/Seattle/5326-28th-Ave-S-98108/home/22686862,May-29-2019,5326 28th Ave S
+Carnation,WA,98014,764950,5,2.75,2990,2016,Sold,47.646279,-121.9049244,http://www.redfin.com/WA/Carnation/4367-326th-Ave-NE-98014/home/104138477,June-24-2019,4367 326th Ave NE
+Redmond,WA,98052,460000,2,2,1195,1979,Sold,47.6718407,-122.1358854,http://www.redfin.com/WA/Redmond/7479-Old-Redmond-Rd-98052/unit-424/home/15534,September-12-2019,7479 Old Redmond Rd #424
+Kirkland,WA,98033,675000,4,1.75,1860,1976,Sold,47.6971997,-122.1739057,http://www.redfin.com/WA/Kirkland/10727-126th-Ave-NE-98033/home/513369,February-1-2019,10727 126th Ave NE
+Bellevue,WA,98005,1300000,5,2.5,3480,1968,Sold,47.6152316,-122.1686315,http://www.redfin.com/WA/Bellevue/12814-NE-5th-Pl-98005/home/508776,April-30-2019,12814 NE 5th Pl
+Issaquah,WA,98027,699950,2,1,1580,1931,Sold,47.5024097,-121.9042707,http://www.redfin.com/WA/Issaquah/10919-Upper-Preston-Rd-SE-98027/home/466090,November-14-2019,10919 Upper Preston Rd SE
+Federal Way,WA,98023,381000,3,2.25,1390,1976,Sold,47.3033026,-122.3710337,http://www.redfin.com/WA/Federal-Way/33306-29th-Pl-SW-98023/home/353181,June-7-2019,33306 29th Pl SW
+Seattle,WA,98103,602311,3,2,1353,2004,Sold,47.691575,-122.341736,http://www.redfin.com/WA/Seattle/8535-Stone-Ave-N-98103/unit-A/home/104326,April-9-2019,8535 Stone Ave N Unit A
+Lake Forest Park,WA,98155,785000,4,2.25,2510,1968,Sold,47.7735883,-122.2716234,http://www.redfin.com/WA/Lake-Forest-Park/5429-NE-200th-Pl-98155/home/92946,August-29-2019,5429 NE 200th Pl
+Maple Valley,WA,98038,458000,4,2.5,1930,2003,Sold,47.362716,-122.03163,http://www.redfin.com/WA/Maple-Valley/23225-SE-267th-Pl-98038/home/371888,May-15-2019,23225 SE 267th Ln
+Auburn,WA,98092,425000,3,2.5,1608,2013,Sold,47.2614595,-122.1982149,http://www.redfin.com/WA/Auburn/2339-53rd-St-SE-98092/home/28581849,April-15-2019,2339 53rd St SE
+Seattle,WA,98136,535500,3,1.5,1480,2007,Sold,47.5437918,-122.3862672,http://www.redfin.com/WA/Seattle/6531-42nd-Ave-SW-98136/unit-A/home/12304830,March-27-2019,6531 42nd Ave SW Unit A
+Seattle,WA,98116,590000,2,1.75,1057,1990,Sold,47.5614962,-122.3898824,http://www.redfin.com/WA/Seattle/4557-45th-Ave-SW-98116/unit-401/home/14321,February-8-2019,4557 45th Ave SW #401
+Seattle,WA,98177,720000,3,1.75,1190,1945,Sold,47.7016961,-122.3724628,http://www.redfin.com/WA/Seattle/10004-13th-Ave-NW-98177/home/95605,May-29-2019,10004 13th Ave NW
+Seattle,WA,98144,715000,2,1,1590,1954,Sold,47.5760922,-122.3074284,http://www.redfin.com/WA/Seattle/3028-19th-Ave-S-98144/home/168778,July-19-2019,3028 19th Ave S
+Kent,WA,98032,635100,3,3.5,4142,1984,Sold,47.3559327,-122.2741923,http://www.redfin.com/WA/Kent/27315-48th-Ave-S-98032/home/208479,April-30-2019,27315 48th Ave S
+Seattle,WA,98199,460000,2,2,1219,1996,Sold,47.6597754,-122.4013548,http://www.redfin.com/WA/Seattle/4309-34th-Ave-W-98199/unit-201/home/72215,October-24-2019,4309 34th Ave W #201
+Kirkland,WA,98034,360000,2,1.5,1098,1983,Sold,47.709471,-122.211681,http://www.redfin.com/WA/Kirkland/9653-NE-121st-Ln-98034/home/279093,January-31-2019,9653 NE 121st Lane
+Bellevue,WA,98005,338000,2,1,925,1969,Sold,47.6180426,-122.1703931,http://www.redfin.com/WA/Bellevue/12700-NE-8th-St-98005/unit-E105/home/61055,September-27-2019,12700 NE 8th St Unit E105
+Seattle,WA,98121,625000,1,1.5,983,2009,Sold,47.6176091,-122.3523038,http://www.redfin.com/WA/Seattle/2911-2nd-Ave-98121/unit-118-LW/home/21617307,April-30-2019,2911 2nd Ave Unit 118LW
+Federal Way,WA,98023,525000,3,2.25,2160,1978,Sold,47.3111343,-122.3881438,http://www.redfin.com/WA/Federal-Way/4208-SW-325th-St-98023/home/353914,October-23-2019,4208 SW 325th St
+Seattle,WA,98115,618000,2,2,1380,1927,Sold,47.699722,-122.316966,http://www.redfin.com/WA/Seattle/1014-NE-97th-St-98115/home/110476,May-8-2019,1014 NE 97th St
+Seattle,WA,98122,785000,3,3,1330,2005,Sold,47.61273,-122.3122259,http://www.redfin.com/WA/Seattle/1507-E-Union-St-98122/unit-B/home/2079682,October-25-2019,1507 E Union St Unit B
+Bellevue,WA,98005,1320000,5,2.25,2986,1950,Sold,47.5880989,-122.1775872,http://www.redfin.com/WA/Bellevue/2523-122nd-Ave-SE-98005/home/507720,December-6-2019,2523 122nd Ave SE
+Seattle,WA,98101,625000,1,0.75,691,2016,Sold,47.6118651,-122.3231225,http://www.redfin.com/WA/Seattle/1321-Seneca-St-98101/unit-2102/home/103782588,December-31-2019,1321 Seneca St #2102
+Seattle,WA,98122,465000,1,1,722,1988,Sold,47.6165093,-122.3264916,http://www.redfin.com/WA/Seattle/1700-Bellevue-Ave-98122/unit-302/home/2074704,November-1-2019,1700 Bellevue Ave #302
+Seattle,WA,98121,549000,1,1,591,1979,Sold,47.613898,-122.344043,http://www.redfin.com/WA/Seattle/2201-3rd-Ave-98121/unit-1902/home/43417,April-29-2019,2201 3rd Ave #1902
+Seattle,WA,98102,525000,1,1,711,1993,Sold,47.6194553,-122.3231565,http://www.redfin.com/WA/Seattle/1711-E-Olive-Way-98102/unit-502/home/2116980,July-18-2019,1711 E Olive Way #502
+Renton,WA,98056,509990,3,2.25,1430,1993,Sold,47.510139,-122.1900468,http://www.redfin.com/WA/Renton/2008-Aberdeen-Pl-NE-98056/home/410624,March-8-2019,2008 Aberdeen Pl NE
+Seattle,WA,98121,615000,2,1,982,1998,Sold,47.6139274,-122.349178,http://www.redfin.com/WA/Seattle/2440-Western-Ave-98121/unit-712/home/17080536,November-5-2019,2440 Western Ave #712
+Renton,WA,98056,505000,3,1,1010,1968,Sold,47.5113266,-122.1889476,http://www.redfin.com/WA/Renton/2124-Blaine-Ave-NE-98056/home/411189,May-6-2019,2124 Blaine Ave NE
+Issaquah,WA,98029,895000,4,2.5,2460,2005,Sold,47.5524598,-121.9891899,http://www.redfin.com/WA/Issaquah/3468-NE-Madison-Way-98029/home/2070203,September-5-2019,3468 NE Madison
+Maple Valley,WA,98038,519950,4,2.5,2245,2014,Sold,47.3557223,-122.0628262,http://www.redfin.com/WA/Maple-Valley/27427-209th-Ct-SE-98038/home/55551168,December-12-2019,27427 209th Ct SE
+Auburn,WA,98001,415000,4,2.25,1906,2011,Sold,47.3364449,-122.2876834,http://www.redfin.com/WA/Auburn/3524-S-296th-Pl-98001/home/40089359,June-11-2019,3524 S 296th Pl
+Renton,WA,98058,490000,3,2.5,1820,1983,Sold,47.4368403,-122.1622124,http://www.redfin.com/WA/Renton/18430-134th-Ave-SE-98058/home/388608,November-14-2019,18430 134th Ave SE
+Seattle,WA,98117,2327000,5,3,4630,1920,Sold,47.6764517,-122.3587021,http://www.redfin.com/WA/Seattle/6515-Sycamore-Ave-NW-98117/home/496812,April-22-2019,6515 Sycamore Ave NW
+Sammamish,WA,98075,394000,2,1,890,2000,Sold,47.5784934,-122.0739628,http://www.redfin.com/WA/Sammamish/3500-E-Lake-Sammamish-Pkwy-SE-98075/unit-3-303/home/18614401,December-27-2019,3500 E Lake Sammamish Pkwy SE Unit 3-303
+Federal Way,WA,98023,367000,3,1.75,1280,1981,Sold,47.318048,-122.3476583,http://www.redfin.com/WA/Federal-Way/31625-9th-Pl-SW-98023/home/350194,October-10-2019,31625 9th Pl SW
+Federal Way,WA,98003,450000,4,2.5,1960,1984,Sold,47.3413482,-122.315766,http://www.redfin.com/WA/Federal-Way/1329-S-290th-Pl-98003/home/345745,March-28-2019,1329 S 290th Pl
+Mercer Island,WA,98040,1275000,4,2.5,3500,1987,Sold,47.5647264,-122.2254012,http://www.redfin.com/WA/Mercer-Island/8535-SE-45th-St-98040/home/260317,October-17-2019,8535 SE 45th St
+Bellevue,WA,98007,236500,0,1,460,1977,Sold,47.6221167,-122.1354038,http://www.redfin.com/WA/Bellevue/1415-154th-Ave-NE-98007/unit-B413/home/17079776,October-28-2019,1415 154th Ave NE Unit B413
+Woodinville,WA,98072,545000,3,1.5,1500,1967,Sold,47.7436066,-122.0756227,http://www.redfin.com/WA/Woodinville/15841-196th-Pl-NE-98077/home/269637,August-5-2019,15841 196th Pl NE
+Seattle,WA,98133,245000,1,1,702,1969,Sold,47.725475,-122.349239,http://www.redfin.com/WA/Seattle/13201-Linden-Ave-N-98133/unit-409A/home/5536,February-19-2019,13201 Linden Ave N Unit 409A
+Issaquah,WA,98027,800000,3,1.5,1500,1981,Sold,47.4898669,-121.899647,http://www.redfin.com/WA/Issaquah/12345-Upper-Preston-Rd-SE-98027/home/466888,December-2-2019,12345 Upper Preston Rd SE
+Snoqualmie,WA,98065,640000,4,2.75,2790,1979,Sold,47.5234837,-121.8373185,http://www.redfin.com/WA/Snoqualmie/37728-SE-86th-St-98065/home/483780,May-30-2019,37728 SE 86th St
+Bellevue,WA,98007,526500,3,2.5,1408,1968,Sold,47.5949245,-122.1407292,http://www.redfin.com/WA/Bellevue/1717-150th-Ave-SE-98007/unit-7/home/68259,September-18-2019,1717 150th Ave SE #7
+Bellevue,WA,98006,1675000,5,4.25,4112,2014,Sold,47.5370144,-122.1154847,http://www.redfin.com/WA/Bellevue/7339-168th-Ave-SE-98006/home/22222119,April-16-2019,7339 168th Ave SE
+Renton,WA,98056,348000,2,1,970,1968,Sold,47.4942934,-122.178008,http://www.redfin.com/WA/Renton/3029-NE-7th-St-98056/home/242221,April-12-2019,3029 NE 7th St
+Seattle,WA,98107,454500,2,1,721,1987,Sold,47.6718774,-122.3919491,http://www.redfin.com/WA/Seattle/2642-NW-59th-St-98107/unit-403/home/17090021,October-15-2019,2642 NW 59th St #403
+Redmond,WA,98053,1740000,3,3,3320,1976,Sold,47.7069984,-122.0827264,http://www.redfin.com/WA/Redmond/12001-194th-Ave-NE-98053/home/443820,April-24-2019,12001 194th Ave NE
+Issaquah,WA,98029,357500,2,2,1024,1995,Sold,47.5749051,-122.0044621,http://www.redfin.com/WA/Issaquah/25025-SE-Klahanie-Blvd-98029/unit-F202/home/12318501,April-24-2019,25025 SE Klahanie Blvd Unit F202
+Seattle,WA,98103,1116000,4,2.5,2060,2013,Sold,47.6726213,-122.3479257,http://www.redfin.com/WA/Seattle/808-N-60th-St-98103/home/39905050,October-18-2019,808 N 60th St
+Seattle,WA,98118,599000,2,1.5,1310,2016,Sold,47.5563028,-122.2881087,http://www.redfin.com/WA/Seattle/5009-Renton-Ave-S-98118/unit-B/home/109969608,May-20-2019,5009 Renton Ave S Unit B
+Seattle,WA,98126,1130000,4,2.5,3090,1919,Sold,47.5726842,-122.3748243,http://www.redfin.com/WA/Seattle/3315-SW-Hinds-St-98126/home/329466,May-28-2019,3315 SW Hinds St
+Bellevue,WA,98005,399950,1,1,752,1968,Sold,47.6157846,-122.1783203,http://www.redfin.com/WA/Bellevue/680-122nd-Ave-NE-98005/unit-113/home/12090643,February-25-2019,680 122nd Ave NE #113
+Seattle,WA,98126,725000,4,2.5,1680,1916,Sold,47.5263255,-122.3796698,http://www.redfin.com/WA/Seattle/3702-SW-Cloverdale-St-98126/home/470132,September-20-2019,3702 SW Cloverdale St
+Sammamish,WA,98075,1035000,4,2.75,2668,2012,Sold,47.5840033,-121.9940978,http://www.redfin.com/WA/Sammamish/25836-SE-28th-Pl-98075/home/28582499,September-17-2019,25836 SE 28th Pl
+Seattle,WA,98126,655000,4,2.25,1850,2014,Sold,47.5430309,-122.3715257,http://www.redfin.com/WA/Seattle/3016-SW-Holly-St-98126/home/18661711,February-8-2019,3016 SW Holly St
+Kenmore,WA,98028,769000,5,2.75,2760,1947,Sold,47.7746955,-122.2661875,http://www.redfin.com/WA/Kenmore/20123-60th-Ave-NE-98028/home/92776,April-5-2019,20123 60th Ave NE
+Seattle,WA,98146,590000,4,2.5,1930,2015,Sold,47.5038497,-122.3407885,http://www.redfin.com/WA/Seattle/458-SW-111th-Pl-98146/home/39904651,June-7-2019,458 SW 111th Pl
+Burien,WA,98146,775000,2,2.5,2470,1942,Sold,47.4923514,-122.3678856,http://www.redfin.com/WA/Burien/12201-Shorewood-Dr-SW-98146/home/332534,May-8-2019,12201 Shorewood Dr SW
+Seattle,WA,98108,684990,3,1.75,1720,2006,Sold,47.5623318,-122.2966234,http://www.redfin.com/WA/Seattle/2812-S-Columbian-Way-98108/home/8187281,March-27-2019,2812 S Columbian Way
+Kirkland,WA,98033,899000,3,2.25,1764,1991,Sold,47.6952068,-122.199544,http://www.redfin.com/WA/Kirkland/10611-NE-107th-Pl-98033/home/463078,March-8-2019,10611 NE 107th Pl
+Duvall,WA,98019,594000,3,1.75,1720,1950,Sold,47.7328959,-121.9197999,http://www.redfin.com/WA/Duvall/14929-316th-Ave-NE-98019/home/441086,May-22-2019,14929 316th Ave NE
+Renton,WA,98055,206000,2,1.75,920,1978,Sold,47.4625005,-122.1979171,http://www.redfin.com/WA/Renton/2020-Grant-Ave-S-98055/unit-L202/home/47103,February-8-2019,2020 Grant Ave S Unit L-202
+Seattle,WA,98115,1057500,4,2.25,2630,1961,Sold,47.6966541,-122.284103,http://www.redfin.com/WA/Seattle/9237-41st-Ave-NE-98115/home/317679,April-26-2019,9237 41st Ave NE
+Seattle,WA,98106,415000,3,1,920,1943,Sold,47.5199014,-122.3542407,http://www.redfin.com/WA/Seattle/9239-15th-Ave-SW-98106/home/475609,November-4-2019,9239 15th Ave SW
+Bellevue,WA,98005,765000,3,2.75,1620,1986,Sold,47.6010981,-122.156861,http://www.redfin.com/WA/Bellevue/13643-SE-10th-St-98005/home/508663,June-10-2019,13643 SE 10th St
+Bellevue,WA,98005,650000,2,2.25,1191,1990,Sold,47.616278,-122.177311,http://www.redfin.com/WA/Bellevue/630-122nd-Ave-NE-98005/home/20941,December-20-2019,630 122nd Ave NE
+Sammamish,WA,98074,1575000,5,3.5,4270,1977,Sold,47.6289206,-122.0564174,http://www.redfin.com/WA/Sammamish/2025-212th-Pl-NE-98074/home/264817,September-16-2019,2025 212th Pl NE
+Kent,WA,98030,459950,3,2.25,2450,1985,Sold,47.3738829,-122.1723113,http://www.redfin.com/WA/Kent/25414-127th-Ave-SE-98030/home/400383,April-26-2019,25414 127th Ave SE
+Kent,WA,98042,351000,3,2,1310,1990,Sold,47.3564785,-122.1543878,http://www.redfin.com/WA/Kent/27420-140th-Ave-SE-98042/home/402916,August-13-2019,27420 140th Ave SE
+Federal Way,WA,98023,420000,4,2.5,2140,1979,Sold,47.3066956,-122.3835999,http://www.redfin.com/WA/Federal-Way/3950-SW-329th-Pl-98023/home/354614,September-23-2019,3950 SW 329th Pl
+Seattle,WA,98103,425000,1,1.5,1066,1981,Sold,47.7007071,-122.3394216,http://www.redfin.com/WA/Seattle/9734-Ashworth-Ave-N-98103/unit-3/home/49729466,June-12-2019,9734 Ashworth Ave N
+Shoreline,WA,98133,585000,3,1.75,2376,1955,Sold,47.7729334,-122.3355229,http://www.redfin.com/WA/Shoreline/1849-N-199th-St-98133/home/80091,August-21-2019,1849 N 199th St
+Seattle,WA,98115,849950,3,1,1816,1945,Sold,47.6813228,-122.2686623,http://www.redfin.com/WA/Seattle/5506-NE-73rd-St-98115/home/321595,December-19-2019,5506 NE 73rd St
+Kent,WA,98042,519950,3,2.5,2090,1994,Sold,47.3338994,-122.0749292,http://www.redfin.com/WA/Kent/29929-200th-Ct-SE-98042/home/383122,June-12-2019,29929 200th Ct SE
+Maple Valley,WA,98038,325000,2,2.25,1310,2003,Sold,47.3490565,-122.0238271,http://www.redfin.com/WA/Maple-Valley/23829-SE-282nd-St-98038/home/22697449,October-15-2019,23829 SE 282nd St
+Federal Way,WA,98023,480000,4,3.25,2886,2014,Sold,47.29636691,-122.3498513,http://www.redfin.com/WA/Federal-Way/1101-SW-339th-St-98023/home/50267965,July-19-2019,1101 SW 339th St
+Auburn,WA,98092,475000,4,3,2445,2006,Sold,47.324518,-122.1644968,http://www.redfin.com/WA/Auburn/30946-133rd-Ave-SE-98092/home/2089344,May-21-2019,30946 133rd Ave SE
+SeaTac,WA,98168,300000,3,2,2020,1950,Sold,47.4777388,-122.2955796,http://www.redfin.com/WA/SeaTac/14004-29th-Ave-S-98168/home/191371,January-4-2019,14004 29th Ave S
+Federal Way,WA,98023,362500,3,1.75,1290,1984,Sold,47.3233194,-122.3487609,http://www.redfin.com/WA/Federal-Way/1102-SW-311th-Ct-98023/home/351966,September-27-2019,1102 SW 311th Ct
+Seattle,WA,98116,847500,4,2,2440,1925,Sold,47.5814046,-122.3902991,http://www.redfin.com/WA/Seattle/4522-SW-Admiral-Way-98116/home/330776,December-26-2019,4522 SW Admiral Way
+Covington,WA,98042,430000,3,2.5,1799,2004,Sold,47.3714009,-122.1257139,http://www.redfin.com/WA/Covington/16130-SE-258th-St-98042/home/394083,August-8-2019,16130 SE 258th St
+Seattle,WA,98116,549000,2,1,750,1926,Sold,47.563511,-122.3912279,http://www.redfin.com/WA/Seattle/4441-46th-Ave-SW-98116/home/329857,October-31-2019,4441 46th Ave SW
+Seattle,WA,98103,875000,3,2.25,1860,2002,Sold,47.6531701,-122.3558781,http://www.redfin.com/WA/Seattle/3621-Greenwood-Ave-N-98103/home/303345,November-8-2019,3621 Greenwood Ave N
+Seattle,WA,98107,875000,3,2.25,1820,2016,Sold,47.6740279,-122.3832485,http://www.redfin.com/WA/Seattle/2024-NW-62nd-St-98107/unit-C/home/109643074,August-30-2019,2024 NW 62nd Unit C
+Bellevue,WA,98008,515000,2,2.25,1122,1988,Sold,47.5711294,-122.1019317,http://www.redfin.com/WA/Bellevue/4152-178th-Ln-SE-98008/unit-2/home/56756,September-19-2019,4152 178th Ln SE #2
+Seattle,WA,98103,575000,3,2.5,1540,2008,Sold,47.6960455,-122.3412929,http://www.redfin.com/WA/Seattle/9203-Interlake-Ave-N-98103/unit-B/home/19820085,August-16-2019,9203 Interlake Ave N Unit B
+Issaquah,WA,98027,625000,4,3.5,2920,1985,Sold,47.47428,-122.009506,http://www.redfin.com/WA/Issaquah/14235-248th-Pl-SE-98027/home/424443,July-11-2019,14235 248th Pl SE
+Seattle,WA,98112,505000,1,1,690,1910,Sold,47.624985,-122.3027029,http://www.redfin.com/WA/Seattle/617-23rd-Ave-E-98112/home/144404,September-19-2019,617 23rd Ave E
+Seattle,WA,98199,975000,3,2.25,2220,1956,Sold,47.6493211,-122.3959142,http://www.redfin.com/WA/Seattle/3219-30th-Ave-W-98199/home/127164,September-10-2019,3219 30th Ave W
+Seattle,WA,98121,325000,0,1,435,1993,Sold,47.6163328,-122.3491116,http://www.redfin.com/WA/Seattle/2600-2nd-Ave-98121/unit-523/home/9353,July-26-2019,2600 2nd Ave #523
+Bellevue,WA,98004,680000,2,1.75,1154,1988,Sold,47.6055633,-122.2033611,http://www.redfin.com/WA/Bellevue/424-102nd-Ave-SE-98004/unit-202/home/30121,October-4-2019,424 102nd Ave SE #202
+Kirkland,WA,98033,950000,4,2.5,1950,2000,Sold,47.6937677,-122.177513,http://www.redfin.com/WA/Kirkland/12219-NE-105th-St-98033/home/511095,May-15-2019,12219 NE 105th St
+Kirkland,WA,98033,729000,3,2.5,1842,2005,Sold,47.698107,-122.1772493,http://www.redfin.com/WA/Kirkland/12313-NE-109th-Way-98033/unit-4-14/home/2087775,September-30-2019,12313 NE 109th Way Unit 4-14
+Woodinville,WA,98077,1425000,4,4,4150,1993,Sold,47.764435,-122.023228,http://www.redfin.com/WA/Woodinville/18810-236th-Ave-NE-98077/home/271979,December-20-2019,18810 236th Ave NE
+Seattle,WA,98126,525000,3,2.75,1610,2017,Sold,47.5401527,-122.3714959,http://www.redfin.com/WA/Seattle/6936-31st-Ave-SW-98126/home/18661415,December-11-2019,6936 31st Ave SW
+Seattle,WA,98117,875000,3,2.5,2310,1961,Sold,47.6944598,-122.3966437,http://www.redfin.com/WA/Seattle/9008-31st-Ave-NW-98117/home/163754,November-4-2019,9008 31st Ave NW
+Federal Way,WA,98023,455000,3,3,2070,1958,Sold,47.3231175,-122.3937436,http://www.redfin.com/WA/Federal-Way/31019-48th-Ave-SW-98023/home/349181,May-31-2019,31019 48th Ave SW
+Seattle,WA,98177,539000,3,2.25,1440,2006,Sold,47.7038336,-122.3583309,http://www.redfin.com/WA/Seattle/10301-Holman-Rd-N-98177/home/97049,April-29-2019,10301 Holman Rd N
+Seattle,WA,98103,660000,3,2,1774,1918,Sold,47.6912877,-122.331341,http://www.redfin.com/WA/Seattle/8603-Corliss-Ave-N-98103/home/105314,February-1-2019,8603 Corliss Ave N
+Seattle,WA,98122,399199,1,1,448,1987,,47.618426,-122.3178187,http://www.redfin.com/WA/Seattle/1828-11th-Ave-98122/unit-102/home/25140,,1828 11th Ave #102
+Seattle,WA,98122,465000,1,1,793,2004,Sold,47.611387,-122.3105065,http://www.redfin.com/WA/Seattle/1621-E-Spring-St-98122/unit-1C/home/2089060,January-3-2019,1621 E Spring St Unit 1C
+Issaquah,WA,98029,505000,2,1.75,1056,2003,Sold,47.5488496,-122.0310155,http://www.redfin.com/WA/Issaquah/23120-SE-Black-Nugget-Rd-98029/unit-R4/home/2085970,May-15-2019,23120 SE Black Nugget Rd Unit R4
+Shoreline,WA,98155,525000,3,2,1010,1947,Sold,47.7416423,-122.3186337,http://www.redfin.com/WA/Shoreline/15511-10th-Ave-NE-98155/home/87139,June-12-2019,15511 10th Ave NE
+Seattle,WA,98108,615000,3,1.75,1340,2014,Sold,47.5501784,-122.3230585,http://www.redfin.com/WA/Seattle/5802-Padilla-Pl-S-98108/home/87703601,June-6-2019,5802 Padilla Pl S
+Seattle,WA,98101,718000,1,1,794,2016,Sold,47.6118651,-122.3231225,http://www.redfin.com/WA/Seattle/1321-Seneca-St-98101/unit-1303/home/106975110,December-27-2019,1321 Seneca St #1303
+Seattle,WA,98144,690000,3,2.25,1640,2014,Sold,47.5872084,-122.3068437,http://www.redfin.com/WA/Seattle/1772-Valentine-Pl-S-98144/home/109661104,June-19-2019,1772 Valentine Pl S
+Seattle,WA,98122,475000,1,1,796,1998,Sold,47.6138421,-122.3272249,http://www.redfin.com/WA/Seattle/303-E-Pike-St-98122/unit-411/home/71116,January-11-2019,303 E Pike St #411
+Seattle,WA,98115,785000,4,1.5,1785,1955,Sold,47.6985529,-122.2900148,http://www.redfin.com/WA/Seattle/3510-NE-96th-St-98115/home/113205,December-19-2019,3510 NE 96th St
+Seattle,WA,98122,447000,1,1,672,2007,Sold,47.613598,-122.3164278,http://www.redfin.com/WA/Seattle/1414-12th-Ave-98122/unit-414/home/17381487,September-30-2019,1414 12th Ave #414
+Seattle,WA,98122,1200000,4,3,2450,1902,Sold,47.6095737,-122.3132062,http://www.redfin.com/WA/Seattle/809-15th-Ave-98122/home/143667,May-16-2019,809 15th Ave
+Seattle,WA,98122,460000,1,1.5,574,1989,Sold,47.6184748,-122.3230698,http://www.redfin.com/WA/Seattle/711-E-Denny-Way-98122/unit-404/home/12091841,March-19-2019,711 E Denny Way #404
+Seattle,WA,98122,735000,4,2,1340,1900,Sold,47.605382,-122.30477,http://www.redfin.com/WA/Seattle/402-21st-Ave-98122/home/144550,October-4-2019,402 21st Ave
+Seattle,WA,98102,442000,2,2,692,1956,Sold,47.6266219,-122.3262182,http://www.redfin.com/WA/Seattle/752-Bellevue-Ave-E-98102/unit-308/home/21617468,September-20-2019,752 Bellevue Ave E #308
+Seattle,WA,98105,577000,2,1,1060,1921,Sold,47.668438,-122.3211453,http://www.redfin.com/WA/Seattle/615-NE-55th-St-98105/home/311865,August-27-2019,615 NE 55th St
+Seattle,WA,98121,375000,0,1,470,1994,Sold,47.614607,-122.3481121,http://www.redfin.com/WA/Seattle/2414-1st-Ave-98121/unit-424/home/65515,September-26-2019,2414 1st Ave #424
+Carnation,WA,98014,730000,4,2.5,2800,2015,Sold,47.6520352,-121.9002708,http://www.redfin.com/WA/Carnation/32883-NE-51st-St-98014/home/106723901,April-9-2019,32883 NE 51st St
+Issaquah,WA,98027,1096000,5,3.5,4260,2004,Sold,47.5409811,-122.0697166,http://www.redfin.com/WA/Issaquah/970-Big-Tree-Dr-NW-98027/home/2072905,December-19-2019,970 Big Tree Dr NW
+Newcastle,WA,98056,328000,2,1.75,1076,1999,Sold,47.5283283,-122.1943309,http://www.redfin.com/WA/Renton/1800-NE-40th-St-98056/unit-D101/home/30105,December-4-2019,1800 NE 40th St Unit D 101
+Bellevue,WA,98006,335000,2,1.75,880,1973,Sold,47.5752101,-122.1815441,http://www.redfin.com/WA/Bellevue/3930-Lake-Washington-Blvd-SE-98006/unit-8A/home/61517,March-1-2019,3930 Lake Washington Blvd SE Unit 8A
+Auburn,WA,98092,710000,3,2,2190,2006,Sold,47.3050725,-122.0632982,http://www.redfin.com/WA/Auburn/33119-210th-Ave-SE-98092/home/2075384,August-9-2019,33119 210th Ave SE
+Maple Valley,WA,98038,609995,5,2.75,2668,2017,Sold,47.3522909,-122.0208614,http://www.redfin.com/WA/Maple-Valley/24032-SE-278th-Ct-98038/home/143079578,August-22-2019,24032 SE 278th Ct
+Kent,WA,98042,495000,3,2.5,1870,1978,Sold,47.3452658,-122.0850113,http://www.redfin.com/WA/Kent/28613-192nd-Pl-SE-98042/home/383575,December-18-2019,28613 192nd Pl SE
+Auburn,WA,98001,539800,4,2.75,2975,2017,Sold,47.3122872,-122.274126,http://www.redfin.com/WA/Auburn/32351-48th-Ave-S-98001/home/109662200,June-12-2019,32351 48th Ave S
+Newcastle,WA,98059,1198000,4,2.75,3050,2001,Sold,47.5211552,-122.1538308,http://www.redfin.com/WA/Newcastle/9051-139th-Ave-SE-98059/home/415786,October-2-2019,9051 139th Ave SE
+Renton,WA,98058,550000,5,2.5,2720,1984,Sold,47.4377935,-122.1386207,http://www.redfin.com/WA/Renton/15129-SE-184th-St-98058/home/233409,September-5-2019,15129 SE 184th St
+Seattle,WA,98121,455000,0,1,559,2008,Sold,47.617666,-122.3492015,http://www.redfin.com/WA/Seattle/2720-3rd-Ave-98121/unit-1107/home/12536935,February-22-2019,2720 3rd Ave #1107
+Seattle,WA,98107,655000,2,1,730,1951,Sold,47.6631109,-122.3646016,http://www.redfin.com/WA/Seattle/610-NW-47th-St-98107/home/303166,March-14-2019,610 NW 47th St
+North Bend,WA,98045,605000,4,2.5,1860,1994,Sold,47.4873102,-121.8014824,http://www.redfin.com/WA/North-Bend/1240-SW-10th-St-98045/home/487175,October-23-2019,1240 SW 10th St
+Sammamish,WA,98075,765000,3,2.25,2290,1981,Sold,47.5874284,-122.0735531,http://www.redfin.com/WA/Sammamish/2505-200th-Ave-SE-98075/home/267688,December-2-2019,2505 200th Ave SE
+Federal Way,WA,98003,457500,3,2.5,2180,1966,Sold,47.3285994,-122.3196084,http://www.redfin.com/WA/Federal-Way/30437-11th-Ave-S-98003/home/351722,March-29-2019,30437 11th Ave S
+Federal Way,WA,98023,395000,3,2.25,2050,1980,Sold,47.3086955,-122.3403394,http://www.redfin.com/WA/Federal-Way/427-SW-327th-Pl-98023/home/358265,April-25-2019,427 SW 327th Pl
+Federal Way,WA,98023,420000,4,2.25,1935,1964,Sold,47.322147,-122.336177,http://www.redfin.com/WA/Federal-Way/130-SW-312th-Pl-98023/home/351076,December-20-2019,130 SW 312th Pl
+Milton,WA,98354,554995,5,2.5,3362,2004,Sold,47.2595597,-122.3035555,http://www.redfin.com/WA/Milton/78-23rd-Ave-98354/home/2066093,May-3-2019,78 23rd Ave
+Federal Way,WA,98003,395000,3,1.75,1910,1959,Sold,47.3257731,-122.3069681,http://www.redfin.com/WA/Federal-Way/2025-S-308th-St-98003/home/204784,September-23-2019,2025 S 308th St
+Woodinville,WA,98072,940000,6,2.5,3310,2003,Sold,47.7726957,-122.1676097,http://www.redfin.com/WA/Woodinville/12951-NE-201st-Way-98072/home/287847,May-8-2019,12951 NE 201st Way
+Auburn,WA,98002,468000,6,3,2470,1981,Sold,47.2919105,-122.2261411,http://www.redfin.com/WA/Auburn/1817-C-Pl-SE-98002/home/214643,October-25-2019,1817 C Pl SE
+Bellevue,WA,98007,439000,2,2,915,1986,Sold,47.619172,-122.1335726,http://www.redfin.com/WA/Bellevue/1007-156th-Ave-NE-98007/unit-B215/home/2067590,August-21-2019,1007 156th Ave NE Unit B215
+Redmond,WA,98052,450000,2,1.75,1155,1982,Sold,47.66774,-122.1320237,http://www.redfin.com/WA/Redmond/15666-NE-70th-Ct-98052/home/3059,December-26-2019,15666 NE 70th Ct
+Bellevue,WA,98004,355000,1,1,812,1980,Sold,47.6397848,-122.200553,http://www.redfin.com/WA/Bellevue/10504-NE-32nd-Pl-98004/unit-G305/home/15205,May-29-2019,10504 NE 32nd Pl Unit G305
+Seattle,WA,98117,865000,4,1,2750,1912,Sold,47.6773899,-122.3663471,http://www.redfin.com/WA/Seattle/6546-Division-Ave-NW-98117/home/498120,September-9-2019,6546 Division Ave NW
+Seattle,WA,98117,800000,3,2,2253,1914,Sold,47.6772177,-122.3607772,http://www.redfin.com/WA/Seattle/6545-3rd-Ave-NW-98117/home/498285,September-19-2019,6545 3rd Ave NW
+Snoqualmie,WA,98065,1040000,4,2.5,3530,2006,,47.5371812,-121.8585814,http://www.redfin.com/WA/Snoqualmie/36116-SE-Turnberry-St-98065/home/8186939,,36116 SE Turnberry St
+Seattle,WA,98115,1215000,3,1.75,2725,1928,Sold,47.6726898,-122.3023671,http://www.redfin.com/WA/Seattle/2281-NE-61st-St-98115/home/308810,August-15-2019,2281 NE 61st St
+Ravensdale,WA,98051,430000,3,1.5,1470,1925,Sold,47.3439175,-121.8933492,http://www.redfin.com/WA/Ravensdale/33729-SE-287th-St-98051/home/294540,September-27-2019,33729 SE 287th St
+Fall City,WA,98024,520000,3,1.75,1410,1926,Sold,47.5673173,-121.8940838,http://www.redfin.com/WA/Fall-City/4319-335th-Pl-SE-98024/home/465080,November-27-2019,4319 335th Pl SE
+Duvall,WA,98019,380000,1,0.75,860,1950,Sold,47.7038174,-121.8965875,http://www.redfin.com/WA/Duvall/11830-Kelly-Rd-NE-98019/home/440759,May-14-2019,11830 Kelly Rd NE
+Snoqualmie,WA,98065,740000,4,2.5,2350,2008,Sold,47.5199643,-121.8667223,http://www.redfin.com/WA/Snoqualmie/9004-Weiting-Ave-SE-98065/home/12539287,June-20-2019,9004 Weiting Ave SE
+Issaquah,WA,98027,575000,3,2.5,1323,1993,Sold,47.5488261,-122.0744712,http://www.redfin.com/WA/Issaquah/2146-NW-Pacific-Yew-Pl-98027/unit-2146/home/43592,May-17-2019,2146 NW Pacific Yew Pl #2146
+Sammamish,WA,98075,1362500,5,3.5,4210,2014,Sold,47.5765787,-122.0719173,http://www.redfin.com/WA/Sammamish/3799-201st-Pl-SE-98075/home/50269623,December-6-2019,3799 201st Pl SE
+Bellevue,WA,98006,610000,2,2.5,1660,2001,Sold,47.5538125,-122.1256143,http://www.redfin.com/WA/Bellevue/5577-Lakemont-Blvd-SE-98006/unit-1504/home/33024,October-21-2019,5577 Lakemont Blvd SE #1504
+Renton,WA,98057,360000,2,1,840,1941,Sold,47.4832478,-122.2032331,http://www.redfin.com/WA/Renton/1007-N-1st-St-98057/home/342967,November-25-2019,1007 N 1st St
+Seattle,WA,98116,813000,3,1.75,1720,1947,Sold,47.5664467,-122.3931774,http://www.redfin.com/WA/Seattle/4102-48th-Ave-SW-98116/home/331431,April-26-2019,4102 48th Ave SW
+Seattle,WA,98109,1590000,3,2.5,2500,1996,Sold,47.6278769,-122.3483441,http://www.redfin.com/WA/Seattle/411-Ward-St-98109/home/133583,November-6-2019,411 Ward St
+Redmond,WA,98053,532500,3,2.5,1539,2006,Sold,47.6986526,-122.020919,http://www.redfin.com/WA/Redmond/23897-NE-112th-Cir-98053/unit-1/home/12305035,July-19-2019,23897 NE 112th Cir #1
+Newcastle,WA,98056,820000,3,2.5,2227,1987,Sold,47.5276402,-122.1687659,http://www.redfin.com/WA/Newcastle/12824-SE-84th-St-98056/home/413100,December-23-2019,12824 SE 84th St
+Enumclaw,WA,98022,377000,3,1.75,1280,1940,Sold,47.2669118,-121.9458236,http://www.redfin.com/WA/Enumclaw/37237-Veazie-Cumberland-Rd-SE-98022/home/294917,December-2-2019,37237 Veazie Cumberland Rd SE
+Auburn,WA,98092,649900,3,1.75,2294,1974,Sold,47.293203,-122.075376,http://www.redfin.com/WA/Auburn/20011-SE-344th-St-98092/home/380884,December-6-2019,20011 SE 344th St
+Kirkland,WA,98034,1075210,5,3.75,3290,2017,Sold,47.7151319,-122.1607237,http://www.redfin.com/WA/Kirkland/13431-NE-128th-Pl-98034/home/109661390,February-12-2019,13431 NE 128th Pl
+Seattle,WA,98125,638000,4,2.5,2110,1941,Sold,47.7141961,-122.3144741,http://www.redfin.com/WA/Seattle/1210-NE-117th-St-98125/home/106510,July-8-2019,1210 NE 117th St
+Seattle,WA,98103,1155000,3,3.25,2630,1914,Sold,47.6849371,-122.3570883,http://www.redfin.com/WA/Seattle/120-N-77th-St-98103/home/21883878,December-18-2019,120 N 77th St
+Bellevue,WA,98007,383000,2,1.5,857,1980,Sold,47.6419658,-122.1453234,http://www.redfin.com/WA/Bellevue/14630-NE-35th-St-98007/unit-203/home/71874,May-8-2019,14630 NE 35th St #203
+Issaquah,WA,98027,775000,4,2.75,3220,1995,Sold,47.4514266,-122.0031741,http://www.redfin.com/WA/Issaquah/16711-254th-Ave-SE-98027/home/424311,May-7-2019,16711 254th Ave SE
+Issaquah,WA,98027,680000,3,2.5,1736,1982,Sold,47.5306295,-122.0261577,http://www.redfin.com/WA/Issaquah/110-6th-Ave-NE-98027/home/420688,July-12-2019,110 6th Ave NE
+Carnation,WA,98014,425000,3,1.75,1140,1977,Sold,47.6507351,-121.9077732,http://www.redfin.com/WA/Carnation/32331-E-Morrison-St-98014/home/519823,March-15-2019,32331 E Morrison St
+Seattle,WA,98199,1202000,4,3.25,2890,1989,Sold,47.6458777,-122.3863255,http://www.redfin.com/WA/Seattle/2838-Patten-Pl-W-98199/home/123717,May-14-2019,2838 Patten Pl W
+Snoqualmie,WA,98065,795000,4,2.75,2870,2005,Sold,47.5387587,-121.8786701,http://www.redfin.com/WA/Snoqualmie/6908-Silent-Creek-Ave-SE-98065/home/2068668,September-3-2019,6908 Silent Creek Ave SE
+Issaquah,WA,98029,662500,3,2.5,1690,2014,Sold,47.5446206,-122.0129444,http://www.redfin.com/WA/Issaquah/1299-NE-Park-Dr-98029/home/40265241,November-8-2019,1299 NE Park Dr
+Sammamish,WA,98029,752000,3,2.5,2250,1990,Sold,47.5766248,-122.0016245,http://www.redfin.com/WA/Issaquah/3648-252nd-Pl-SE-98029/home/437340,February-25-2019,3648 252nd Pl SE
+Issaquah,WA,98029,825000,4,2.5,2050,1989,Sold,47.5787466,-122.0030357,http://www.redfin.com/WA/Issaquah/3517-252nd-Pl-SE-98029/home/438955,March-18-2019,3517 252nd Pl SE
+Woodinville,WA,98072,834000,3,2.5,2670,2001,Sold,47.7457878,-122.1741078,http://www.redfin.com/WA/Woodinville/12417-NE-163rd-Pl-98072/home/453693,May-13-2019,12417 NE 163rd Pl
+Issaquah,WA,98029,782000,4,2.25,1830,2005,Sold,47.5524466,-121.996088,http://www.redfin.com/WA/Issaquah/2405-28th-Pl-NE-98029/home/2076822,July-12-2019,2405 28th Pl NE
+Seattle,WA,98116,1025000,3,3,2170,1949,Sold,47.5654339,-122.4025101,http://www.redfin.com/WA/Seattle/4144-55th-Ave-SW-98116/home/151307,May-31-2019,4144 55th Ave SW
+Kenmore,WA,98028,665000,4,2.5,2270,2004,Sold,47.7715347,-122.2357932,http://www.redfin.com/WA/Kenmore/19719-78th-Ave-NE-98028/home/2083119,March-19-2019,19719 78th Ave NE
+Seattle,WA,98115,340000,2,1.75,980,1970,Sold,47.6802886,-122.264388,http://www.redfin.com/WA/Seattle/7001-Sand-Point-Way-NE-98115/unit-C406/home/8993,January-16-2019,7001 Sand Point Wy NE Unit C406
+Seattle,WA,98125,695725,3,1.5,1520,2004,Sold,47.7166685,-122.2868438,http://www.redfin.com/WA/Seattle/12036-38th-Ave-NE-98125/home/111723,July-9-2019,12036 38th Ave NE
+Issaquah,WA,98029,460000,1,1.5,1318,2000,Sold,47.545522,-122.011051,http://www.redfin.com/WA/Issaquah/1415-Huckleberry-Cir-98029/home/67956,April-19-2019,1415 Huckleberry Cir
+Duvall,WA,98019,640000,5,2.5,2727,2015,Sold,47.7304437,-121.9807705,http://www.redfin.com/WA/Duvall/14311-3rd-Cir-NE-98019/home/101610840,June-14-2019,14311 3rd Cir NE
+Redmond,WA,98052,300000,1,1,775,1972,Sold,47.6644769,-122.1570541,http://www.redfin.com/WA/Redmond/6448-138th-Ave-NE-98052/unit-399/home/9139,March-14-2019,6448 138th Ave NE #399
+Seattle,WA,98108,647000,3,2.25,1720,2008,Sold,47.563243,-122.2972898,http://www.redfin.com/WA/Seattle/4335-Jill-Pl-S-98108/home/8187512,May-23-2019,4335 Jill Pl S
+Kenmore,WA,98028,850000,3,2.5,2572,2016,Sold,47.748914,-122.2351841,http://www.redfin.com/WA/Kenmore/16541-79th-Pl-NE-98028/home/276596,February-22-2019,16541 79th Pl NE
+Lake Forest Park,WA,98155,775000,4,2.75,2680,1940,Sold,47.7499263,-122.3011437,http://www.redfin.com/WA/Lake-Forest-Park/2548-NE-168th-St-98155/home/88380,December-23-2019,2548 NE 168th St
+Kirkland,WA,98034,620000,4,2.5,1730,1975,Sold,47.7259929,-122.1740766,http://www.redfin.com/WA/Kirkland/12502-NE-140th-St-98034/home/453922,June-28-2019,12502 NE 140th St
+Woodinville,WA,98072,852000,5,2.75,2730,2005,Sold,47.7389775,-122.1676514,http://www.redfin.com/WA/Woodinville/15373-129th-Ave-NE-98072/home/2082289,July-12-2019,15373 129th Ave NE
+Sammamish,WA,98075,949000,5,2.75,3470,2004,Sold,47.581739,-121.9708,http://www.redfin.com/WA/Sammamish/2944-277th-Ter-SE-98075/home/2070366,June-28-2019,2944 277th Ter SE
+Bellevue,WA,98008,965000,5,2.5,2780,1978,Sold,47.5721528,-122.11221,http://www.redfin.com/WA/Bellevue/4074-171st-Ave-SE-98008/home/429152,April-30-2019,4074 171st Ave SE
+Redmond,WA,98052,980000,4,2.25,2390,1975,Sold,47.673727,-122.1460535,http://www.redfin.com/WA/Redmond/14510-NE-77th-St-98052/home/516758,April-25-2019,14510 NE 77th St
+Redmond,WA,98052,935000,4,2.25,2210,1973,Sold,47.6295162,-122.0906782,http://www.redfin.com/WA/Redmond/2205-187th-Ave-NE-98052/home/505615,June-13-2019,2205 187th Ave NE
+Snoqualmie,WA,98065,675000,4,2.5,2610,2003,Sold,47.5354586,-121.8809324,http://www.redfin.com/WA/Snoqualmie/7309-Silent-Creek-Ave-SE-98065/home/467116,March-12-2019,7309 Silent Creek Ave SE
+North Bend,WA,98045,439950,3,1,1250,1970,Sold,47.4453217,-121.7720595,http://www.redfin.com/WA/North-Bend/17061-427th-Ave-SE-98045/home/487869,July-30-2019,17061 427th Ave SE
+Bellevue,WA,98007,298400,2,1,889,1978,Sold,47.6381391,-122.1472833,http://www.redfin.com/WA/Bellevue/14760-NE-31st-St-98007/unit-A108/home/21675857,February-26-2019,14760 NE 31st St Unit A-108
+Bellevue,WA,98007,396000,2,1,1087,1978,Sold,47.6376559,-122.1478317,http://www.redfin.com/WA/Bellevue/14735-NE-31st-St-98007/unit-2C/home/98693881,June-19-2019,14735 NE 31st St Unit 2C
+Bellevue,WA,98005,300000,1,1,678,1969,Sold,47.6180426,-122.1703931,http://www.redfin.com/WA/Bellevue/811-126th-Pl-NE-98005/unit-A105/home/6179,August-16-2019,811 126th Pl NE Unit A105
+Bellevue,WA,98005,660000,3,2.5,1217,1990,Sold,47.616278,-122.177311,http://www.redfin.com/WA/Bellevue/718-122nd-Ave-NE-98005/unit-1/home/3396,November-6-2019,718 122nd Ave NE
+Sammamish,WA,98029,799000,3,2.5,1940,1996,Sold,47.5710319,-122.0050587,http://www.redfin.com/WA/Issaquah/25126-SE-41st-Dr-98029/home/437258,November-15-2019,25126 SE 41st Dr
+Sammamish,WA,98074,1199000,4,3.25,3540,2005,Sold,47.6132197,-122.0588016,http://www.redfin.com/WA/Sammamish/411-211th-Ave-NE-98074/home/2066358,June-28-2019,411 211th Ave NE
+Woodinville,WA,98072,321400,2,2,934,1984,Sold,47.7524336,-122.1710473,http://www.redfin.com/WA/Woodinville/17105-127th-Pl-NE-98072/home/16003,December-4-2019,17105 127th Pl NE
+Kent,WA,98042,599950,5,3.25,2960,1988,Sold,47.38201,-122.1584649,http://www.redfin.com/WA/Kent/24514-137th-Ave-SE-98042/home/398612,February-19-2019,24514 137th Ave SE
+Kent,WA,98031,510000,3,2.5,2132,2012,Sold,47.3908505,-122.2127821,http://www.redfin.com/WA/Kent/9527-S-235th-Pl-98031/home/40264521,March-1-2019,9527 S 235th Pl
+Auburn,WA,98092,624995,4,2.5,3174,2015,Sold,47.3266908,-122.1626517,http://www.redfin.com/WA/Auburn/30614-134th-Ave-SE-98092/home/40089453,September-23-2019,30614 134th Ave SE
+Federal Way,WA,98023,315000,3,1.75,1560,1969,Sold,47.3016148,-122.3769142,http://www.redfin.com/WA/Federal-Way/33507-35th-Ave-SW-98023/home/356095,January-4-2019,33507 35th Ave SW
+Bothell,WA,98011,290000,2,1.5,970,1976,Sold,47.765949,-122.207792,http://www.redfin.com/WA/Bothell/9912-NE-190th-St-98011/unit-B/home/71462,May-23-2019,9912 NE 190th St Unit B
+Federal Way,WA,98023,421000,4,2.25,1980,1993,Sold,47.3054953,-122.358432,http://www.redfin.com/WA/Federal-Way/32913-18th-Ave-SW-98023/home/358516,October-16-2019,32913 18th Ave SW
+Lake Forest Park,WA,98155,849000,4,1.75,3270,1965,Sold,47.7746317,-122.2758847,http://www.redfin.com/WA/Lake-Forest-Park/19946-47th-Ave-NE-98155/home/93063,August-26-2019,19946 47th Ave NE
+Seattle,WA,98133,560000,3,1,1340,1926,Sold,47.7039511,-122.3409881,http://www.redfin.com/WA/Seattle/10321-Interlake-Ave-N-98133/home/105029,July-16-2019,10321 Interlake Ave N
+Shoreline,WA,98133,610000,4,2.25,2150,1962,Sold,47.768561,-122.3418351,http://www.redfin.com/WA/Shoreline/19217-Ashworth-Ave-N-98133/home/79471,August-15-2019,19217 Ashworth Ave N
+Seattle,WA,98115,399950,2,1.75,983,1970,Sold,47.6802886,-122.264388,http://www.redfin.com/WA/Seattle/5818-NE-70th-St-98115/unit-A210/home/27704,August-8-2019,5818 NE 70th St Unit A210
+Seattle,WA,98105,1099950,4,2,2440,1947,Sold,47.6699757,-122.2642875,http://www.redfin.com/WA/Seattle/5624-59th-Ave-NE-98105/home/120717,October-1-2019,5624 59th Ave NE
+Kent,WA,98042,499950,3,2.25,2020,1978,Sold,47.344797,-122.0708604,http://www.redfin.com/WA/Kent/20316-SE-287th-St-98042/home/381456,June-4-2019,20316 SE 287th St
+Maple Valley,WA,98038,625000,3,2,1730,1938,Sold,47.382527,-122.008194,http://www.redfin.com/WA/Maple-Valley/24425-250th-Ave-SE-98038/home/375753,May-31-2019,24425 250th Ave
+Maple Valley,WA,98038,535000,4,2.5,2152,2011,Sold,47.35462,-122.056823,http://www.redfin.com/WA/Maple-Valley/21365-SE-275th-Ct-98038/home/22441109,September-9-2019,21365 SE 275th Ct
+Covington,WA,98042,639950,4,2.5,2890,1996,Sold,47.3385307,-122.0673791,http://www.redfin.com/WA/Kent/20423-SE-294th-Way-98042/home/381435,September-26-2019,20423 SE 294th Way
+Seattle,WA,98115,775000,4,2,2106,1940,Sold,47.6985645,-122.3254588,http://www.redfin.com/WA/Seattle/9528-3rd-Ave-NE-98115/home/109053,April-18-2019,9528 3rd Ave NE
+Auburn,WA,98001,535000,4,2.5,2859,2017,Sold,47.28474987,-122.2666329,http://www.redfin.com/WA/Auburn/35251-55th-Ave-S-98001/home/18659964,March-20-2019,35251 55th Ave S
+Shoreline,WA,98155,500000,3,1,1340,1951,Sold,47.7760347,-122.32121,http://www.redfin.com/WA/Shoreline/20205-8th-Ave-NE-98155/home/79018,October-10-2019,20205 8th Ave NE
+Auburn,WA,98092,584950,4,2.5,2140,1999,Sold,47.3244914,-122.1926524,http://www.redfin.com/WA/Auburn/30929-112th-Ave-SE-98092/home/406405,April-15-2019,30929 112th Ave SE
+Auburn,WA,98092,425000,3,2.25,1611,2012,Sold,47.2593327,-122.2006606,http://www.redfin.com/WA/Auburn/2213-55th-St-SE-98092/home/28581878,August-30-2019,2213 55th St SE
+Auburn,WA,98002,374990,3,2,1550,1957,Sold,47.2839441,-122.2066055,http://www.redfin.com/WA/Auburn/1706-28th-St-SE-98002/home/213438,November-21-2019,1706 28th St SE
+Federal Way,WA,98023,340000,3,1,970,1966,Sold,47.3232899,-122.3446729,http://www.redfin.com/WA/Federal-Way/31045-7th-Ave-SW-98023/home/351873,April-30-2019,31045 7th Ave SW
+Federal Way,WA,98023,399995,3,2.25,1680,1970,Sold,47.3192147,-122.3841325,http://www.redfin.com/WA/Federal-Way/31435-40th-Ave-SW-98023/home/353487,May-31-2019,31435 40th Ave SW
+Seattle,WA,98178,411500,3,1.5,1530,1961,Sold,47.5104394,-122.2729405,http://www.redfin.com/WA/Seattle/4726-S-Victor-St-98178/home/175364,March-26-2019,4726 S Victor St
+Seattle,WA,98116,845000,5,2,2130,1926,Sold,47.5749999,-122.3876996,http://www.redfin.com/WA/Seattle/3220-44th-Ave-SW-98116/home/331317,September-19-2019,3220 44th Ave SW
+Seattle,WA,98121,615000,2,2,1033,1994,Sold,47.6148461,-122.3475339,http://www.redfin.com/WA/Seattle/2415-2nd-Ave-98121/unit-732/home/72226,September-30-2019,2415 2nd Ave #732
+Seattle,WA,98126,731000,4,1.75,2310,1930,Sold,47.5325542,-122.3714537,http://www.redfin.com/WA/Seattle/7741-30th-Ave-SW-98126/home/472170,May-17-2019,7741 30th Ave SW
+Seattle,WA,98116,639950,3,2,1720,1942,Sold,47.5713613,-122.3877897,http://www.redfin.com/WA/Seattle/3620-44th-Ave-SW-98116/home/331504,August-9-2019,3620 44th Ave SW
+Bothell,WA,98011,632500,4,2,1570,1959,Sold,47.7573199,-122.2168225,http://www.redfin.com/WA/Bothell/17823-93rd-Pl-NE-98011/home/285989,July-11-2019,17823 93rd Pl NE
+Issaquah,WA,98029,865000,4,3,2220,1993,Sold,47.5680686,-121.9974394,http://www.redfin.com/WA/Issaquah/4227-258th-Ave-SE-98029/home/437804,May-20-2019,4227 258th Ave SE
+Seattle,WA,98103,799900,3,3.25,1398,2002,Sold,47.6529319,-122.3546969,http://www.redfin.com/WA/Seattle/3619-Phinney-Ave-N-98103/unit-A/home/302996,September-11-2019,3619 Phinney Ave N Unit A
+Seattle,WA,98107,755000,3,1,1040,1951,Sold,47.6734954,-122.3935914,http://www.redfin.com/WA/Seattle/2811-NW-62nd-St-98107/home/162959,May-31-2019,2811 NW 62nd St
+Seattle,WA,98117,985000,4,2.25,2180,1990,Sold,47.6807854,-122.3926768,http://www.redfin.com/WA/Seattle/7114-28th-Ave-NW-98117/home/167157,September-4-2019,7114 28th Ave NW
+Seattle,WA,98119,679990,1,1,880,1918,Sold,47.636071,-122.3644653,http://www.redfin.com/WA/Seattle/516-W-Howe-St-98119/home/135028,May-22-2019,516 W Howe St
+Black Diamond,WA,98010,543000,5,3,2790,2007,Sold,47.3130741,-122.0251118,http://www.redfin.com/WA/Black-Diamond/32215-Bruckners-Way-98010/home/12318886,September-13-2019,32215 Bruckners Ct
+Seattle,WA,98103,320000,1,1,611,2006,Sold,47.6958237,-122.3558161,http://www.redfin.com/WA/Seattle/9057-Greenwood-Ave-N-98103/unit-303/home/12304860,April-19-2019,9057 Greenwood Ave N #303
+Kenmore,WA,98028,305000,2,1.5,978,1984,Sold,47.7566998,-122.232605,http://www.redfin.com/WA/Kenmore/8005-NE-177th-Ct-98028/unit-203/home/32919,August-21-2019,8005 NE 177th Ct #203
+Seattle,WA,98107,507000,1,1,724,2008,Sold,47.6689309,-122.3779136,http://www.redfin.com/WA/Seattle/1530-NW-Market-St-98107/unit-604/home/17382640,April-5-2019,1530 NW Market St #604
+Seattle,WA,98107,875000,3,2.5,1800,2016,Sold,47.6732241,-122.377112,http://www.redfin.com/WA/Seattle/1514-NW-61st-St-98107/home/494922,October-17-2019,1514 NW 61st St
+Seattle,WA,98126,769000,3,1.75,1520,1912,Sold,47.5553672,-122.3778988,http://www.redfin.com/WA/Seattle/5205-36th-Ave-SW-98126/home/470847,December-12-2019,5205 36th Ave SW
+Seattle,WA,98115,665000,2,1,1290,1942,Sold,47.6961599,-122.2900609,http://www.redfin.com/WA/Seattle/3504-NE-93rd-St-98115/home/315492,June-7-2019,3504 NE 93rd St
+Seattle,WA,98136,530000,2,1,780,1940,Sold,47.5373705,-122.3926247,http://www.redfin.com/WA/Seattle/7322-47th-Ave-SW-98136/home/153435,October-10-2019,7322 47th Ave SW
+Seattle,WA,98199,1115000,4,1.75,1900,1946,Sold,47.6546285,-122.398517,http://www.redfin.com/WA/Seattle/3815-32nd-Ave-W-98199/home/127248,June-7-2019,3815 32nd Ave W
+Seattle,WA,98101,543000,1,0.75,768,1983,Sold,47.6055911,-122.3372758,http://www.redfin.com/WA/Seattle/1107-1st-Ave-98101/unit-605/home/28714,August-22-2019,1107 1st Ave #605
+Seattle,WA,98106,505000,2,1,1000,1909,Sold,47.5657054,-122.3646739,http://www.redfin.com/WA/Seattle/4127-25th-Ave-SW-98106/home/159656,April-18-2019,4127 25th Ave SW
+Seattle,WA,98121,618000,2,2,981,1993,Sold,47.616399,-122.3490289,http://www.redfin.com/WA/Seattle/2600-2nd-Ave-98121/unit-405/home/8531,January-2-2020,2600 2nd Ave #405
+Bellevue,WA,98004,750000,2,1.75,1149,1988,Sold,47.612966,-122.2078738,http://www.redfin.com/WA/Bellevue/200-99th-Ave-NE-98004/unit-38/home/6788,May-31-2019,200 99th Ave NE #38
+Kirkland,WA,98034,675000,3,2.5,1880,2008,Sold,47.7194803,-122.2058159,http://www.redfin.com/WA/Kirkland/13264-101st-Ln-NE-98034/home/59703472,December-2-2019,13264 101st Ln NE
+Seattle,WA,98136,607000,3,1.75,1351,2014,Sold,47.5521952,-122.3819653,http://www.redfin.com/WA/Seattle/3900-SW-Findlay-St-98136/unit-1/home/471648,April-30-2019,3900 SW Findlay St
+Bothell,WA,98011,645000,3,2.5,1790,1987,Sold,47.7479632,-122.1842759,http://www.redfin.com/WA/Bothell/11716-NE-165th-Pl-98011/home/456018,September-25-2019,11716 NE 165th Pl
+Bellevue,WA,98005,835000,2,2.5,1732,1999,Sold,47.6058178,-122.1820753,http://www.redfin.com/WA/Bellevue/11899-SE-4th-Pl-98005/unit-601/home/52014,September-30-2019,11899 SE 4th Pl #601
+Kirkland,WA,98034,272000,2,1,698,1982,,47.7074453,-122.1708029,http://www.redfin.com/WA/Kirkland/12719-NE-120th-St-98034/unit-D11/home/20541,,12719 NE 120th St Unit D11
+Woodinville,WA,98077,839000,3,2.5,2530,1990,Sold,47.7613969,-122.0244413,http://www.redfin.com/WA/Woodinville/18415-236th-Ave-NE-98077/home/272280,August-27-2019,18415 236th Ave NE
+Shoreline,WA,98133,927500,4,2.5,2830,2006,Sold,47.7390945,-122.35216,http://www.redfin.com/WA/Shoreline/15160-Dayton-Ave-N-98133/home/8189501,July-22-2019,15160 Dayton Ave N
+Shoreline,WA,98133,525000,3,2,1060,1952,Sold,47.7412216,-122.3324722,http://www.redfin.com/WA/Shoreline/2147-N-155th-St-98133/home/81305,July-26-2019,2147 N 155th St
+Seattle,WA,98117,1053000,3,2.5,2560,2006,Sold,47.6893484,-122.3979202,http://www.redfin.com/WA/Seattle/8328-32nd-Ave-NW-98117/home/12304074,June-11-2019,8328 32nd Ave NW
+Seattle,WA,98117,324000,1,1,884,1976,Sold,47.6869638,-122.3926911,http://www.redfin.com/WA/Seattle/8000-28th-Ave-NW-98117/unit-320/home/7254,October-15-2019,8000 28th Ave NW #320
+Seattle,WA,98178,510000,4,1.75,1470,1952,Sold,47.5025768,-122.2366891,http://www.redfin.com/WA/Seattle/7631-S-112th-St-98178/home/199489,March-15-2019,7631 S 112th St
+Federal Way,WA,98023,447000,4,2.5,2251,2005,Sold,47.2912042,-122.3571959,http://www.redfin.com/WA/Federal-Way/1731-SW-346th-Pl-98023/home/2087760,April-19-2019,1731 SW 346TH Pl
+Seattle,WA,98115,535000,2,1,720,1951,Sold,47.688679,-122.3009978,http://www.redfin.com/WA/Seattle/2512-NE-82nd-St-98115/home/318537,February-28-2019,2512 NE 82nd St
+Seattle,WA,98115,475000,3,1.75,1150,1923,Sold,47.6943918,-122.3066539,http://www.redfin.com/WA/Seattle/9014-20th-Ave-NE-98115/home/107371,April-3-2019,9014 20th Ave NE
+Seattle,WA,98125,775000,4,2.5,1810,1972,Sold,47.7092864,-122.2820882,http://www.redfin.com/WA/Seattle/11025-Bartlett-Ave-NE-98125/home/110843,August-15-2019,11025 Bartlett Ave NE
+Seattle,WA,98103,635000,3,3,1780,2005,Sold,47.6963137,-122.3400272,http://www.redfin.com/WA/Seattle/9207-Ashworth-Ave-N-98103/unit-A/home/2076466,April-19-2019,9207 Ashworth Ave N Unit A
+Kenmore,WA,98028,465000,2,2.5,1578,2004,Sold,47.7574394,-122.234299,http://www.redfin.com/WA/Kenmore/17815-80th-Ave-NE-98028/unit-C4/home/55204318,November-4-2019,17815 80th Ave NE Unit C4
+Issaquah,WA,98029,433000,4,2,1542,2008,Sold,47.5400499,-122.0259737,http://www.redfin.com/WA/Issaquah/908-4th-Ave-NE-98029/home/18660502,October-21-2019,908 4th Ave NE
+Seattle,WA,98112,729950,3,1.5,1275,2006,Sold,47.618815,-122.304507,http://www.redfin.com/WA/Seattle/108-21st-Ave-E-98112/unit-B/home/143447,April-26-2019,108 21st Ave E Unit B
+Seattle,WA,98102,647500,2,2,1118,1978,Sold,47.6205111,-122.3228096,http://www.redfin.com/WA/Seattle/210-Boylston-Ave-E-98102/unit-107/home/3191,July-24-2019,210 Boylston Ave E #107
+Seattle,WA,98125,315000,1,1,683,1999,Sold,47.7189409,-122.318573,http://www.redfin.com/WA/Seattle/12345-Roosevelt-Way-NE-98125/unit-203/home/5030,May-24-2019,12345 Roosevelt Way NE #203
+Seattle,WA,98118,599000,2,1.5,1310,2016,Sold,47.5563028,-122.2881087,http://www.redfin.com/WA/Seattle/5009-Renton-Ave-S-98118/unit-D/home/172506,October-18-2019,5009 Renton Ave S Unit D
+Issaquah,WA,98029,1090000,5,2.75,3180,2001,Sold,47.5576724,-122.0278162,http://www.redfin.com/WA/Issaquah/23409-SE-49th-St-98029/home/267708,October-11-2019,23409 SE 49th St
+Issaquah,WA,98029,1240000,4,3.25,3300,2003,Sold,47.5556854,-122.0298111,http://www.redfin.com/WA/Issaquah/23249-SE-52nd-St-98029/home/268130,October-25-2019,23249 SE 52nd St
+Seattle,WA,98122,890000,3,3.25,1720,2007,Sold,47.6125886,-122.2990414,http://www.redfin.com/WA/Seattle/1131-26th-Ave-98122/home/12318938,November-26-2019,1131 26th Ave
+Seattle,WA,98115,892000,2,1.75,1037,2003,Sold,47.6794632,-122.3242286,http://www.redfin.com/WA/Seattle/410-NE-70th-St-98115/unit-502/home/49770,September-13-2019,410 NE 70th St #502
+Seattle,WA,98108,552500,2,2,1270,2017,Sold,47.5432319,-122.321699,http://www.redfin.com/WA/Seattle/6637-Carleton-Ave-S-98108/unit-D/home/145530424,December-13-2019,6637 Carleton Ave S Unit D
+Seattle,WA,98144,619900,3,2,1330,2010,Sold,47.595954,-122.299489,http://www.redfin.com/WA/Seattle/724-25th-Ave-S-98144/unit-A/home/28650527,November-8-2019,724 25th Ave S Unit A
+Renton,WA,98059,450000,3,2.5,1610,1978,Sold,47.4772638,-122.1518293,http://www.redfin.com/WA/Renton/14042-SE-141st-St-98059/home/245588,October-23-2019,14042 SE 141st St
+Kent,WA,98031,612000,4,2.5,2798,2018,Sold,47.4283466,-122.1789367,http://www.redfin.com/WA/Kent/19406-121st-Pl-SE-98031/home/143457669,March-6-2019,19406 121ST Pl SE
+Issaquah,WA,98027,1119000,4,2.5,2453,1996,Sold,47.5512675,-122.0832504,http://www.redfin.com/WA/Issaquah/5645-193rd-Pl-SE-98027/home/419474,May-16-2019,5645 193rd Pl SE
+Redmond,WA,98052,725000,3,3.25,2573,1989,Sold,47.6695676,-122.1321661,http://www.redfin.com/WA/Redmond/7250-Old-Redmond-Rd-98052/unit-A-103/home/57637,January-22-2019,7250 Old Redmond Rd Unit A103
+Seattle,WA,98144,655000,3,3,1293,2009,Sold,47.5841608,-122.3136626,http://www.redfin.com/WA/Seattle/2111-15th-Ave-S-98144/unit-C/home/21882772,December-6-2019,2111 15th Ave S Unit C
+Seattle,WA,98105,675000,3,2.5,1520,2006,Sold,47.6635098,-122.2845947,http://www.redfin.com/WA/Seattle/4701-Sand-Point-Way-NE-98105/home/17082171,November-18-2019,4701 Sand Point Way NE
+Issaquah,WA,98027,420000,2,2.25,1159,1989,Sold,47.5679338,-122.0990683,http://www.redfin.com/WA/Issaquah/4320-W-Lake-Sammamish-Pkwy-SE-98027/unit-F-106/home/12540580,October-17-2019,4320 W Lake Sammamish Pkwy SE Unit F-106
+Seattle,WA,98118,1067000,4,2.75,2670,1956,Sold,47.5553808,-122.2649448,http://www.redfin.com/WA/Seattle/5145-55th-Ave-S-98118/home/489575,October-25-2019,5145 55th Ave S
+Seattle,WA,98115,879000,3,2,1920,1926,Sold,47.6851365,-122.3091201,http://www.redfin.com/WA/Seattle/7707-18th-Ave-NE-98115/home/310924,August-9-2019,7707 18th Ave NE
+Seattle,WA,98118,575000,3,1.75,1470,1960,Sold,47.5295025,-122.2660016,http://www.redfin.com/WA/Seattle/8302-Seward-Park-Ave-S-98118/home/490575,February-28-2019,8302 Seward Park Ave S
+Seattle,WA,98104,424000,2,1,838,2000,Sold,47.5994192,-122.3197974,http://www.redfin.com/WA/Seattle/321-10th-Ave-S-98104/unit-720/home/71099,April-19-2019,321 10th Ave S #720
+Seattle,WA,98104,410000,1,1,764,2000,Sold,47.5994192,-122.3197974,http://www.redfin.com/WA/Seattle/321-10th-Ave-S-98104/unit-508/home/30577,November-20-2019,321 10th Ave S #508
+Seattle,WA,98122,385000,1,1,616,2000,Sold,47.61895,-122.3231699,http://www.redfin.com/WA/Seattle/700-E-Denny-Way-98122/unit-310/home/2095893,September-10-2019,700 E Denny Way #310
+Seattle,WA,98103,699950,2,1.75,985,2001,Sold,47.6562131,-122.342065,http://www.redfin.com/WA/Seattle/4026-Stone-Way-N-98103/unit-501/home/49002,June-11-2019,4026 Stone Way N #501
+Seattle,WA,98103,563000,3,2,1350,2003,Sold,47.6928986,-122.342176,http://www.redfin.com/WA/Seattle/8814-Midvale-Ave-N-98103/unit-C/home/104802,May-23-2019,8814 Midvale Ave N Unit C
+Seattle,WA,98102,905000,3,3,1652,2002,Sold,47.629618,-122.320638,http://www.redfin.com/WA/Seattle/1131-10th-Ave-E-98102/unit-B/home/136310,August-21-2019,1131 10th Ave E Unit B
+Issaquah,WA,98029,1264000,5,3.25,4071,2016,Sold,47.5566553,-122.0317657,http://www.redfin.com/WA/Issaquah/5049-231st-Ave-SE-98029/home/106725329,May-30-2019,5049 231st Ave SE
+Renton,WA,98056,700000,4,2.75,2210,1976,Sold,47.5155353,-122.1736133,http://www.redfin.com/WA/Renton/9612-125th-Pl-SE-98056/home/412076,May-31-2019,9612 125th Pl SE
+Shoreline,WA,98155,359950,2,1.75,1082,2005,Sold,47.7750309,-122.3128433,http://www.redfin.com/WA/Shoreline/20028-15th-Ave-NE-98155/unit-107/home/12093182,March-7-2019,20028 15th Ave NE #107
+Kirkland,WA,98033,450000,2,1,824,1987,Sold,47.6776046,-122.1920438,http://www.redfin.com/WA/Kirkland/224-9th-St-98033/unit-G101/home/2091076,September-10-2019,224 9th St Unit G101
