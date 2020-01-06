@@ -8,7 +8,7 @@ The purpose of this project was to use newly acquired skills in predictive regre
 
 In this README we will discuss our process for data cleaning, some insights that we noticed in the dataset, model selection, and how/why we applied this to 2019 data.
 
-The final presentation can be found in the file XXXXXX.pdf
+The final presentation can be found in the file 'Final_Presentation.pdf'
 
 ## Team Members
 
