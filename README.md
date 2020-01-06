@@ -29,10 +29,10 @@ This is the model using the given data for King County in 2014 & 2015.
 ###Redfin Model
 This model used webscraped Redfin data to pull 2019 housing data for analysis.
 
-1. The webscraped data was captured from code in the 'CARSONS NOTEBOOK XXXXX.ipynb'. This notebook is commented, and the test data is saved in 'sold_homes_model_validation_data.csv'.
-2. We then retrained the Original Model with modified features so the Redfin data would run, this can be found in the 'low_col_GAMS_DL.ipynb'.
-3. We then tested this data on 340 sold homes in 2019 (look to the presentation for details).
-4. Finally, we predicted home prices on 350 homes that are currently listed to see if we could find potential undervalued homes for flip opportunities -- 'low_col_test.ipynb'.
+1. We then retrained the Original Model with modified features so the Redfin data would run. This was because the Redfin data did not contain all of the previously available features. This file can be found in the 'low_col_GAMS_DL.ipynb'.
+2. Then we webscraped data using code in the 'WS_Zillow_KC_houses_CL.ipynb' file. This notebook is commented, and the test data is saved in 'sold_homes_model_validation_data.csv'.
+3. We then tested this data on 340 sold homes in 2019 (look to the presentation for results). This data is in the 'Redfin_KC_listings.csv', and was derived from the webscapting sheet also.
+4. Finally, we predicted home prices on 350 homes that are currently listed to see if we could find potential undervalued homes for flip opportunities. This can be found in the  'low_col_test.ipynb' file.
 
 
 
